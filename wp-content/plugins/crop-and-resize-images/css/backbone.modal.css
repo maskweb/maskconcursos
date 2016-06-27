@@ -1,0 +1,58 @@
+/* Modal positioning */
+.bbm-wrapper {
+	box-sizing: border-box;
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1000000;
+	padding: 50px 10px;
+	overflow: auto;
+	background: rgba(0,0,0,0.8);
+	/* color: #fff; */
+	overflow: hidden;
+}
+.bbm-wrapper * {
+	box-sizing: border-box; 
+}
+
+.bbm-modal {
+	border-radius: 3px;
+	margin: auto;
+	width: auto;
+	/* max-width: 550px; */ 
+	background-color: #fff;
+	padding: 1% 1%;
+	height: 100%;
+}
+
+.bbm-views {
+	width: 100%;
+	box-sizing: border-box; 
+}
+
+.bbm-modal__title{
+	margin-top: 0;
+	width: 33%;
+	display: inline-block;
+	font-size: 1em;
+	color: #ddd;
+	font-weight: normal;
+}
+.bbm-button.close{
+	float:right;
+	background-image: url('../img/uploader-icons.png');
+	color: transparent;
+	/* border: 1px solid #000; */
+	width: 15px;
+	display: inline-block;
+	height: 15px;
+	background-position-x: 35px;
+}
+.bbm-modal__section h1{
+	padding-top: 0px;
+
+	margin-top: 0px;
+	font-size: 1.2em;
+}

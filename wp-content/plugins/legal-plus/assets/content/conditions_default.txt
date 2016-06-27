@@ -1,0 +1,298 @@
+<p align="justify">
+    <strong>1. Política de privacidad y cookies.</strong>
+</p>
+<p align="justify">
+    <strong>Tratamiento de datos de carácter personal</strong>
+</p>
+<p align="justify">
+    [legalplus_WEB_DOMAIN] (en adelante la Web) es propiedad de [legalplus_TITULAR] (en adelante el Titular) con domicilio en [legalplus_COMPLETE_ADDRESS], con CIF/NIF [legalplus_IDENT_CODE] teléfono [legalplus_TELEPHONE] y correo electrónico [legalplus_EMAIL].
+</p>
+<p align="justify">
+    En cumplimiento con lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal (‘LOPD’), le informamos de que los datos personales e información que nos facilite al cumplimentar cualquier formulario electrónico disponible en la Web, serán incorporados en un fichero de datos de carácter personal titularidad del Titular.
+</p>
+<p align="justify">
+    Los datos obtenidos serán empleados para el cumplimiento de las finalidades siguientes: establecer una relación de usuarios de la Web inscritos, con el objeto de mantener contacto comercial, así como su gestión, y la realización de estadísticas y segmentación. El usuario consiente expresamente la comunicación o cesión de sus datos personales a los proveedores que intervienen en la oferta y prestación de nuestros servicios, como por ejemplo proveedores, hosting o mensajería, con el exclusivo fin de la correcta consecución del servicio solicitado.
+</p>
+<p align="justify">
+    El usuario inscrito podrá recibir automáticamente publicaciones y comunicaciones comerciales de la Web, aceptando expresamente el usuario su consentimiento a tal fin. El usuario podrá darse de baja de dichas comunicaciones comerciales periódicas en cualquier momento mediante remisión al correo electrónico [legalplus_EMAIL] indicando dicha intención.
+</p>
+<p align="justify">
+    El Titular es el responsable del fichero de forma individual y se compromete a no destinar los datos a una finalidad distinta para la cual fueron recogidos ni a ceder los mismos de forma ilegítima a terceros. También se compromete a tratar sus datos confidencialmente y a aplicar las medidas de seguridad de índole técnica y/u, organizativa necesarias para evitar su tratamiento o acceso no autorizado según establece la normativa vigente en materia de protección de datos.
+</p>
+<p align="justify">
+    Estos términos y condiciones pueden ser modificados. 7 días antes de su entrada en vigor, se comunicarán al usuario esos cambios mediante correo electrónico o aviso en nuestra web.
+</p>
+<p align="justify">
+    <strong>Derechos ARCO</strong>
+</p>
+<p align="justify">
+    El usuario podrá ejercer gratuitamente sus derechos de Acceso, Rectificación, Cancelación y Oposición (‘Derechos ARCO’) en los términos legalmente previstos debiendo para ello dirigir correo electrónico a la siguiente dirección: [legalplus_EMAIL], indicando en ambos casos su nombre y apellidos y adjuntando fotocopia de su DNI. También puede dirigir carta escrita a nuestro domicilio informado anteriormente.
+</p>
+<p align="justify">
+    <strong>2. Política de uso de Cookies</strong>
+</p>
+<p align="justify">
+    En cumplimiento de lo dispuesto en el artículo 22.2 LSSI, la Web únicamente utilizará dispositivos de almacenamiento y recuperación de datos (‘Cookies’) cuando el usuario haya dado su consentimiento para ello, de acuerdo con lo que se indica en la ventana emergente del navegador del usuario cuando accede por primera vez a la Web y en los demás términos y condiciones siguientes que todo usuario debe conocer.
+</p>
+<p align="justify">
+    Nuestra Política de Cookies tiene como objetivo ayudar a comprender el uso que hacemos de las cookies, la finalidad de las cookies utilizadas, así como las posibles opciones que el usuario dispone para gestionarlas. La política publicada está sujeta a actualizaciones periódicas.
+</p>
+<p align="justify">
+    Los usuarios pueden acceder a esta información en todo momento mediante el enlace “Política de privacidad y Cookies” habilitado en la web. Los usuarios pueden modificar las preferencias sobre la aceptación de cookies a través de las opciones de su navegador. En el apartado de “Modificar la configuración de las cookies” encontrará más información.
+</p>
+<p align="justify">
+    <strong>¿Qué opciones puedo tomar?</strong>
+</p>
+<p align="justify">
+    Es posible realizar las siguientes acciones:
+</p>
+<p align="justify">
+    Aceptar cookies: No se volverá a visualizar el aviso al acceder a cualquier página de la Tienda.
+</p>
+<p align="justify">
+    No hacer nada: Se visualizará el aviso siempre al acceder a cualquier página de la Web. Si continúa navegando, consideramos que acepta el uso de las cookies.
+</p>
+<p align="justify">
+    Modificar la configuración de las cookies: Podrá borrar las cookies de la Web y modificar la configuración de su navegación. Pero esto no evitará que se visualice el aviso de las cookies al acceder de nuevo a la web.
+</p>
+<p align="justify">
+    <strong>¿Qué es una cookie?</strong>
+</p>
+<p align="justify">
+    Una “Cookie” es un pequeño archivo de texto que un sitio web almacena en el navegador del usuario. Las cookies facilitan el uso y la navegación por una página web y son esenciales para el funcionamiento de internet, aportando innumerables ventajas en la prestación de servicios interactivos.
+</p>
+<p align="justify">
+    Así, por ejemplo, son utilizadas para gestionar la sesión del usuario (reduciendo el número de veces que se debe introducir la clave), o para adaptar los contenido de la web a los sus preferencias, entre otras facilidades.
+</p>
+<p align="justify">
+Más información en    <a href="http://es.wikipedia.org/wiki/Cookie_%28inform%C3%A1tica%29"><u>http://es.wikipedia.org/wiki/Cookie_%28inform%C3%A1tica%29</u></a>
+</p>
+<p align="justify">
+    En la
+    <a href="http://www.agpd.es/portalwebAGPD/canaldocumentacion/publicaciones/common/Guias/Guia_Cookies.pdf">
+        <u>guía sobre el uso de cookies de la Agencia de Protección de Datos</u>
+    </a>
+    se detallan los diferentes tipos de cookies.
+</p>
+<p align="justify">
+    <strong>¿Qué tipos de cookies utilizamos?</strong>
+</p>
+<p align="justify">
+    <strong>1.-</strong>
+    En función de quién las gestiona:
+</p>
+<p align="justify">
+    Cookies propias: son las que se envían a su navegador desde nuestros equipos o dominios web y desde el que se presta el servicio solicitado.
+</p>
+<p align="justify">
+    Cookies de terceros: son las que se envían a su navegador desde un equipo o dominio web que no gestionamos nosotros, sino una entidad colaboradora como pueda ser Google Analytics.
+</p>
+<p align="justify">
+    <strong>2.-</strong>
+    En función del tiempo que están activas:
+</p>
+<p align="justify">
+    Cookies de sesión: son las que permanecen en el archivo de cookies de su navegador hasta que abandona la página web, de modo que ninguna queda en su dispositivo.
+</p>
+<p align="justify">
+    Cookies persistentes: son las que permanecen en su dispositivo y nuestra web las lee cada vez que realiza una nueva visita. Estas cookies dejan de funcionar pasada una fecha concreta.
+</p>
+<p align="justify">
+    <strong>3.-</strong>
+    En función de su finalidad:
+</p>
+<p align="justify">
+    Cookies técnicas: son las que mejoran la navegación y el buen funcionamiento de nuestra web. Cookies de personalización: son las que permiten acceder al servicio con unas características predefinidas en función de una serie de criterios. Sirven, por ejemplo, para elegir el idioma de la web.
+</p>
+<p align="justify">
+    Cookies de análisis: son las que permiten medir y analizar estadísticamente el uso que se hace del servicio prestado. Sirven por ejemplo para saber quién visita la web.
+</p>
+<p align="justify">
+    Cookies que usamos:
+</p>
+<center>
+    <table width="642" cellpadding="2" cellspacing="0">
+        <colgroup>
+            <col width="217"/>
+            <col width="110"/>
+            <col width="302"/>
+        </colgroup>
+        <tbody>
+            <tr valign="top">
+                <td width="217">
+                    <p align="justify">
+                        <strong>Nombre</strong>
+                    </p>
+                </td>
+                <td width="110">
+                    <p align="justify">
+                        <strong>Expiración</strong>
+                    </p>
+                </td>
+                <td width="302">
+                    <p align="justify">
+                        <strong>Finalidad</strong>
+                    </p>
+                </td>
+            </tr>
+            <tr valign="top">
+                <td width="217">
+                    <p align="justify">
+                        uvc
+                    </p>
+                </td>
+                <td width="110">
+                    <p align="justify">
+                        1 dia.
+                    </p>
+                </td>
+                <td rowspan="5" width="302">
+                    <p align="justify">
+                        Compartir los contenidos de la web en las redes sociales vía Addtoany y realizar la analítica de la web con Google Analitics. Estas
+                        cookies recopilan información sobre la actividad de los usuarios y no sobre su identificación personal. Información sobre el origen de
+                        las visitas, palabras claves, navegador utilizado, etc. _ga se usa para distinguir a los usuarios.
+                    </p>
+                </td>
+            </tr>
+            <tr valign="top">
+                <td width="217">
+                    <p align="justify">
+                        __utma
+                    </p>
+                </td>
+                <td width="110">
+                    <p align="justify">
+                        2 años.
+                    </p>
+                </td>
+            </tr>
+            <tr valign="top">
+                <td width="217">
+                    <p align="justify">
+                        __utmb
+                    </p>
+                </td>
+                <td width="110">
+                    <p align="justify">
+                        30 minutos.
+                    </p>
+                </td>
+            </tr>
+            <tr valign="top">
+                <td width="217">
+                    <p align="justify">
+                        __utmc
+                    </p>
+                </td>
+                <td width="110">
+                    <p align="justify">
+                        Sesión
+                    </p>
+                </td>
+            </tr>
+            <tr valign="top">
+                <td width="217">
+                    <p>
+                        __utmz
+                    </p>
+                    <p>
+                        _ga
+                    </p>
+                    <p>
+                        _gat
+                    </p>
+                </td>
+                <td width="110">
+                    <p align="justify">
+                        6 meses.
+                    </p>
+                    <p>
+                        2 años
+                    </p>
+                    <p>
+                        10 minutos
+                    </p>
+                </td>
+            </tr>
+            <tr valign="top">
+                <td width="217">
+                    <p align="justify">
+                        ipinfo
+                    </p>
+                </td>
+                <td width="110">
+                    <p align="justify">
+                        6 meses.
+                    </p>
+                </td>
+                <td rowspan="3" width="302">
+                    <p align="justify">
+                        Analítica de publicidad con Media6degrees.
+                    </p>
+                    <p align="justify">
+                        Las cookies recogen información sobre los usuarios al utilizar el botón de redes sociales para compartir los contenidos de la web.
+                    </p>
+                </td>
+            </tr>
+            <tr valign="top">
+                <td width="217">
+                    <p align="justify">
+                        clid
+                    </p>
+                </td>
+                <td width="110">
+                    <p align="justify">
+                        6 meses.
+                    </p>
+                </td>
+            </tr>
+            <tr valign="top">
+                <td width="217">
+                    <p align="justify">
+                        acs
+                    </p>
+                </td>
+                <td width="110">
+                    <p align="justify">
+                        6 meses.
+                    </p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+<p align="justify">
+    Terceros prestadores de servicios en nuestro dominio:
+</p>
+<p align="justify">
+    Addtoany. Es un servicio proporcionado por addtonay.com y static.addtonay.com para que los usuarios pueda compartir información de webs de forma sencilla en las redes sociales. Más información en <a href="http://www.addtoany.com/privacy">http://www.addtoany.com/privacy</a>
+</p>
+<p align="justify">
+    Google Analitics. Es una aplicación de software de Google Inc. para la analítica de webs. Las cookies utilizadas recopilan datos anónimos sobre la navegación de los usuarios por la web con la finalidad de conocer el origen de las visitas, el número de veces que han visitado la web, las palabras claves utilizadas, y otros datos estadísticos. Más información en <a href="http://www.google.com/analytics/">http://www.google.com/analytics/</a>
+</p>
+<p align="justify">
+    Media6degrees.Es una empresa proveedora de análisis de publicidad online mediante las redes sociales. Recopila información sobre la actividad de los usuarios en la web con fines publicitarios. Más información en <a href="http://media6degrees.com/privacy.php">http://media6degrees.com/privacy.php</a>
+</p>
+<p align="justify">
+    <strong>Modificar la configuración de las cookies.</strong>
+</p>
+<p align="justify">
+    Usted puede restringir, bloquear o borrar las cookies de la Web configurando las preferencias de su navegador. Así mismo, puede activar la opción de navegación privada por la que su navegador deja de almacenar el historial de navegación, sus claves secretas, cookies y demás información de las páginas que visite.
+</p>
+<p>
+    En cada navegador la configuración de las cookies es diferente, la función de “Ayuda” le mostrará cómo hacerlo, sin embargo le indicamos los enlaces
+    directos de los principales navegadores sobre el tema :
+    <br/>
+    <br/>
+    <a href="http://windows.microsoft.com/es-xl/internet-explorer/delete-manage-cookies#ie=ie-10"><u>InternetExplorer</u></a>
+    (enlaces)
+    <br/>
+    <a href="https://support.mozilla.org/es/kb/Borrar%20cookies"><u>FireFox</u></a>
+    <br/>
+    <a href="https://support.google.com/chrome/answer/95647?hl=es"><u>Chrome</u></a>
+    <br/>
+    <a href="https://support.apple.com/es-es/HT201265"><u>Safari</u></a>
+</p>
+<p align="justify">
+    Para terminar, tenga en cuenta que el bloqueo de cookies puede afectar a toda o alguna funcionalidad de la web.
+</p>

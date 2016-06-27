@@ -1,0 +1,125 @@
+<p>
+    <strong>AVISO LEGAL</strong>
+</p>
+<p>
+    <strong>1. Identificación y contacto del propietario de la web.</strong>
+</p>
+<p>
+    [legalplus_WEB_DOMAIN] (en adelante la web) es propiedad de [legalplus_TITULAR] (en adelante el Titular) con domicilio en [legalplus_COMPLETE_ADDRESS], España, con CIF/NIF [legalplus_IDENT_CODE] teléfono [legalplus_TELEPHONE] y correo electrónico [legalplus_EMAIL].
+</p>
+<p>
+    <strong>Otros datos del propietario:</strong>
+</p>
+<p>
+    Datos de inscripción en Registro Mercantil: [legalplus_REGISTER]
+</p>
+<p>
+    Códigos de conducta adheridos: [legalplus_CONDUCT_CODE]
+</p>
+<p>
+    Autorización administrativa especial: [legalplus_LICENCE]
+</p>
+<p>
+    Datos colegiación: [legalplus_COLEGE]
+</p>
+<p>
+    <strong>2. Ámbito de aplicación</strong>
+</p>
+<p>
+    La navegación por el sitio web del Titular implica asumir la condición de usuario y la aceptación absoluta de lo manifestado en este Aviso Legal.
+</p>
+<p>
+    <strong>3. Edad.</strong>
+</p>
+<p>
+    El registro en nuestra web está dirigido a mayores de dieciocho (18) años. Si se detectara el registro de un menor de 18 años, esa cuenta será automáticamente eliminada.
+</p>
+<p>
+    <strong>4. Propiedad intelectual o industrial.</strong>
+</p>
+<p>
+    Los contenidos de la Web, por ejemplo textos, imágenes, gráficos o código fuente, están protegidos por derechos de propiedad intelectual e industrial.
+</p>
+<p>
+    Tales contenidos no podrán ser, por ejemplo, reproducidos o transformados sin el permiso previo y explícito del Titular. Los usuarios pueden acceder a los contenidos y realizar copias privadas autorizadas siempre que los elementos reproducidos no sean cedidos posteriormente a terceros, ni se instalen en servidores en red, ni sean objeto de ningún tipo de explotación.
+</p>
+<p>
+    <strong>5. Normas comunes de uso de la web.</strong>
+</p>
+<p>
+    El usuario se compromete a hacer un uso de la Web de acuerdo a las siguientes normas:
+</p>
+<ul>
+    <li>
+        <p>
+            No publicará comunicaciones comerciales a través del sitio web.
+        </p>
+    </li>
+    <li>
+        <p>
+            No recopilará contenido o información de otros usuarios.
+        </p>
+    </li>
+    <li>
+        <p>
+            No cargará virus ni código malintencionado de ningún tipo.
+        </p>
+    </li>
+    <li>
+        <p>
+            No solicitará información de inicio de sesión ni accederá a una cuenta perteneciente a otro usuario.
+        </p>
+    </li>
+    <li>
+        <p>
+            No molestará, intimidará ni acosará a ningún usuario.
+        </p>
+    </li>
+    <li>
+        <p>
+            No realizará actos ilícitos, engañosos, malintencionados o discriminatorios en el sitio web, de acuerdo a estas condiciones y al ordenamiento
+            jurídico español.
+        </p>
+    </li>
+    <li>
+        <p>
+            No hará nada que pueda poner en peligro la seguridad de su cuenta, especialmente respecto a su contraseña. De hecho, comunicará cualquier incidencia relacionada con su contraseña, cuenta, vulneración de la confidencialidad de tus datos, peligro o amenaza detectada en la seguridad de sus datos.
+        </p>
+    </li>
+</ul>
+<p>
+    El Titular podrá eliminar cualquier contenido o suspender el servicio si según su propio criterio, incumple cualquiera de las normas y obligaciones descritas en este Aviso Legal.
+</p>
+<p>
+    Para cualquier consulta o aclaración sobre estas normas comunitarias en particular o estas condiciones en particular, puede contactarnos vía email.
+</p>
+<p>
+    <strong>6. Enlaces y limitación de responsabilidad.</strong>
+</p>
+<p>
+    El establecimiento de un hiperenlace no implica en ningún caso la existencia de relaciones entre el Titular y el propietario del sitio web en la que se establezca, ni la aceptación y aprobación por parte del Titular de sus contenidos o servicios. Aquellas personas que se propongan establecer un hiperenlace previamente deberán solicitar autorización por escrito al Titular. En todo caso, el hiperenlace únicamente permitirá el acceso a la página de inicio de nuestro sitio web, asimismo deberá abstenerse de realizar manifestaciones o indicaciones falsas, inexactas o incorrectas sobre el Titular, o incluir contenidos ilícitos, contrarios a las buenas costumbres y al orden público.
+</p>
+<p>
+    El Titular no se responsabiliza del uso que cada usuario le dé a los materiales puestos a disposición en este sitio web ni de las actuaciones que realice en base a los mismos. El contenido de la Web es de carácter general y meramente informativo.
+</p>
+<p>
+    El Titular no asumirá responsabilidad por el contenido o funcionamiento de webs de terceros a los que el usuario de la Tienda pueda acceder mediante cualquier tipo de enlace.
+</p>
+<p>
+    El Titular declina cualquier responsabilidad, hasta donde permita el ordenamiento jurídico, por los daños y perjuicios derivados de la presencia de virus, de las actuaciones de terceros que vulneren derechos de propiedad, al honor, a la intimidad o sobre publicidad ilícita.
+</p>
+<p>
+    Si algún usuario o tercero considera que en la Web se está cometiendo algún ilícito de cualquier tipo debe remitir una comunicación al Titular a la dirección de email que aparece en nuestros datos identificativos. Deberá identificarse debidamente especificando los hechos que denuncia.
+</p>
+<p>
+    <strong>7. Privacidad.</strong>
+</p>
+<p>
+    Si en la Web se recabaran datos personales, el Titular será responsable de los mismos y los tratará con absoluta confidencialidad y seguridad. Podrá encontrar más información sobre nuestra política de privacidad y cookies en la página específica de información sobre esta cuestión.
+</p>
+<p>
+    <strong>8. Legislación aplicable, solución de cuestiones controvertidas y foro competente</strong>
+</p>
+<p>
+    El uso de la Web se regirá por la legislación española. Cualquier controversia que surja o guarde relación con el uso de la Web, será sometido a la jurisdicción no exclusiva de los Juzgados y Tribunales del municipio donde radica el domicilio social del Titular, salvo que la normativa en vigor o el código de conducta establezca foro distinto.
+</p>

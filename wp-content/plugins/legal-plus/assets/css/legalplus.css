@@ -1,0 +1,91 @@
+#legalplus-cookies-banner {
+    position: fixed;
+    left: 0;
+    width: 100%;
+    min-height: 70px;
+    background-color: rgba(0, 0, 0, 0.65);
+    z-index: 999999;
+    margin: 0;
+    padding: 20px;
+}
+#legalplus-cookies-banner.top {
+    top: 0;
+}
+#legalplus-cookies-banner.bottom {
+    bottom: 0;
+}
+#legalplus-cookies-banner p {
+    margin: 0 auto;
+    max-width: 1200px;
+    font-size: 15px;
+}
+#legalplus-cookies-banner .block_content {
+    color: white;
+}
+#legalplus-cookies-banner .block_content a {
+    color: red;
+    font-weight: 700;
+    font-size: 15px;
+}
+#legalplus-cookies-banner p {
+    text-align: center;
+}
+#legalplus-cookies-banner .block_content ul {}
+#legalplus-cookies-banner .block_content ul li {}
+#legalplus-cookies-banner .block_content ul li a {color: red;}
+.legalplus-accept-btn {
+    text-align: center;
+    margin-top: 10px;
+}
+.legalplus-accept-btn a {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.legalplus-accept-btn #legalplus_accept_cookies {
+    color: red;
+}
+.legalplus-accept-btn #legalplus_deny_cookies {
+    color: #C7AFAF!important;
+}
+#legal-confirm {
+    position: fixed;
+    max-width: 522px;
+    background-color: black;
+    width: 100%;
+    top: 200px;
+    left: 0;
+    border-radius: 5px;
+    padding: 20px 20px 0 20px;
+    color: white;
+    z-index: 999999;
+    text-align: center;
+    font-size: 15px;
+}
+#legal-confirm a {
+    color: red;
+}
+#legal-accept, #legal-deny {
+    color: red;
+    display: block;
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 15px 30px;
+    text-align: center;
+    cursor: pointer;
+}
+#bottom_legal_bar {
+    background-color: rgba(30, 115, 190, 0.5);
+    /* maskconcursos developers */
+    /* background-color: black;
+    color: white;*/
+    color: #d0dff4;
+    padding: 12px;
+    font-size: 14px;
+    text-align: center;
+}
+#bottom_legal_bar a {
+    /* maskconcursos developers */
+    /* color: red; */
+    color: #d0dff4;
+}

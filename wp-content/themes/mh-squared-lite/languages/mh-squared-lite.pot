@@ -1,0 +1,492 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MH Squared lite v1.0.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-01-03 12:24+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: \n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:54
+msgid "Theme Options"
+msgstr ""
+
+# @ mh-squared-lite
+#: comments.php:20 includes/mh-custom-functions.php:160
+#: includes/mh-custom-functions.php:222
+msgid "&laquo;"
+msgstr ""
+
+# @ mh-squared-lite
+#: comments.php:20 includes/mh-custom-functions.php:161
+#: includes/mh-custom-functions.php:222
+msgid "&raquo;"
+msgstr ""
+
+# @ mh-squared-lite
+#: comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+# @ mh-squared-lite
+#: comments.php:52
+msgid "Leave a comment"
+msgstr ""
+
+# @ mh-squared-lite
+#: comments.php:53
+msgid "Your email address will not be published."
+msgstr ""
+
+# @ mh-squared-lite
+#: comments.php:55
+msgid "Comment"
+msgstr ""
+
+# @ mh-squared-lite
+#: content-none.php:4
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+# @ mh-squared-lite
+#: content-none.php:6
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for, perhaps "
+"searching can help?"
+msgstr ""
+
+# @ mh-squared-lite
+#: footer.php:6
+#, php-format
+msgid "Copyright &copy; %1$s %2$s"
+msgstr ""
+
+# @ mh-squared-lite
+#: functions.php:35
+msgid "Main Navigation"
+msgstr ""
+
+# @ mh-squared-lite
+#: functions.php:86
+msgid "Global - Sidebar"
+msgstr ""
+
+# @ mh-squared-lite
+#: functions.php:86
+msgid ""
+"Sidebar widgets located on every page except the homepage, suitable for all "
+"widgets."
+msgstr ""
+
+# @ mh-squared-lite
+#: functions.php:87
+msgid ""
+"Main column widgets located on homepage only, suitable for widgets with the "
+"[MH] prefix and text widgets."
+msgstr ""
+
+# @ mh-squared-lite
+#: functions.php:88
+msgid "Sidebar widgets located on homepage only, suitable for all widgets."
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-custom-functions.php:50
+#, php-format
+msgctxt "post author"
+msgid "Articles by %s"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-custom-functions.php:62
+msgid "Archives"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-custom-functions.php:68
+msgid "Page not found (404 Error)"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-custom-functions.php:70
+#, php-format
+msgid "Search Results: %s"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-custom-functions.php:84
+msgid "Tagged With"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-custom-functions.php:95
+#, php-format
+msgctxt "comments number"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mh-squared-lite
+#: includes/mh-custom-functions.php:105
+msgid "Filed Under"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-custom-functions.php:194
+msgid "Back to post"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-custom-functions.php:196
+msgid "Previous image"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-custom-functions.php:199
+msgid "Previous post"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-custom-functions.php:206
+msgid "Next image"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-custom-functions.php:208
+msgid "Next post"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-custom-functions.php:239
+#, php-format
+msgid "%1$s @ %2$s"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-custom-functions.php:243
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-custom-functions.php:253
+msgid "Edit"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-custom-functions.php:267
+msgid "Name "
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-custom-functions.php:268
+msgid "Email "
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-custom-functions.php:269
+msgid "Website"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-custom-functions.php:284
+msgid "About the author"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-custom-functions.php:303
+#, php-format
+msgid "More Posts (%s)"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:58
+msgid "General"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:59
+msgid "Layout"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:71
+msgid "Custom Excerpt Length in Words"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:65 includes/mh-customizer.php:122
+msgid "Read More"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:95
+msgid "Enable"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:96
+msgid "Disable"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:73
+msgid "Sidebar Alignment"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:73 includes/mh-customizer.php:97
+msgid "Right Sidebar"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:73 includes/mh-customizer.php:98
+msgid "Left Sidebar"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/widgets/mh-comments.php:58 includes/widgets/mh-custom-posts.php:125
+msgid "Title:"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/widgets/mh-comments.php:8
+msgctxt "widget name"
+msgid "MH Recent Comments"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/widgets/mh-comments.php:9
+msgid ""
+"MH Recent Comments widget to display your recent comments including user "
+"avatars."
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/widgets/mh-comments.php:31
+#, php-format
+msgctxt "comment widget"
+msgid "%1$s on %2$s"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/widgets/mh-comments.php:55
+msgid "Recent Comments"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/widgets/mh-comments.php:62
+msgid "Limit Comment Number:"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/widgets/mh-comments.php:66
+msgid "Skip Comments (Offset):"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/widgets/mh-custom-posts.php:9
+msgid "Display posts including thumbnail images."
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/widgets/mh-custom-posts.php:129 includes/widgets/mh-slider.php:64
+msgid "Select a Category:"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/widgets/mh-custom-posts.php:131 includes/widgets/mh-slider.php:66
+msgid "All"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/widgets/mh-custom-posts.php:137 includes/widgets/mh-slider.php:72
+msgid "Select a category to display posts from."
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/widgets/mh-custom-posts.php:140 includes/widgets/mh-slider.php:75
+msgid "Post Count (max. 50):"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/widgets/mh-custom-posts.php:144 includes/widgets/mh-slider.php:79
+msgid "Skip Posts (max. 50):"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/widgets/mh-slider.php:9
+msgid "Display any of your posts in a responsive content slider."
+msgstr ""
+
+# @ mh-squared-lite
+#: comments.php:11
+#, php-format
+msgid "Readers Comments (1)"
+msgid_plural "Readers Comments (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mh-squared-lite
+#: comments.php:27
+#, php-format
+msgid "Trackbacks & Pingbacks (%s)"
+msgstr ""
+
+# @ mh-squared-lite
+#: comments.php:46
+msgid "Be the first to comment"
+msgstr ""
+
+# @ mh-squared-lite
+#: functions.php:87
+msgid "Home 1 - Main Column"
+msgstr ""
+
+# @ mh-squared-lite
+#: functions.php:88
+msgid "Home 2 - Sidebar"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:72
+msgid "Custom Excerpt More-Text"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/widgets/mh-custom-posts.php:8
+msgctxt "widget name"
+msgid "MH Custom Posts [lite]"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/widgets/mh-custom-posts.php:148 includes/widgets/mh-slider.php:83
+msgid "Info:"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/widgets/mh-custom-posts.php:148 includes/widgets/mh-slider.php:83
+msgid ""
+"This is the lite version of this widget with basic features. If you need "
+"more advanced features and options, you can upgrade to the premium version "
+"of this theme."
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/widgets/mh-slider.php:8
+msgctxt "widget name"
+msgid "MH Slider [lite]"
+msgstr ""
+
+# @ mh-squared-lite
+#: footer.php:9
+#, php-format
+msgid "MH Squared lite by %s"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:13
+msgid "MH Squared Pro"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:16
+msgid ""
+"If you like the free version of this theme, you will LOVE the full version "
+"of MH Squared which includes unique custom widgets, additional features and "
+"more useful options to customize your website."
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:19
+msgid "Additional Features:"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:23
+msgid "Options to modify color scheme"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:26
+msgid "Typography options"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:29
+msgid "Several additional widget areas"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:32
+msgid "Additional custom widgets"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:35
+msgid "Additional custom menu slots"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:38
+msgid "Social buttons, related articles, ..."
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:41
+msgid "News ticker and many more..."
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:46
+msgid "Learn more about MH Squared"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:60
+msgid "More Features"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:142
+msgid "Upgrade to MH Squared Pro"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:143
+msgid "Theme Related Links:"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:145
+msgid "Theme Info Page"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:147
+msgid "Theme Documentation"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:149
+msgid "Support Forum"
+msgstr ""
+
+# @ mh-squared-lite
+#: includes/mh-customizer.php:151
+msgid "Rate this theme"
+msgstr ""
