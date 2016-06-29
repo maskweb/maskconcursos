@@ -5284,8 +5284,16 @@ function mysql_to_rfc3339( $date_string ) {
 function getSubCategories($categoryId){
 
 	if(!empty($categoryId)){
-		$subCatIds = get_term_children ($categoryId, 'category');
+
 		$objCategory = get_category( $categoryId );
+
+		if($objCategory->category_parent != 0){
+			$categoryId = $objCategory->category_parent;
+			$objCategory = get_category( $categoryId );
+		}
+
+		$subCatIds = get_term_children ($categoryId, 'category');
+
 		$baseUrl = get_home_url()."/category/";
 
 		if(!empty($subCatIds)){
