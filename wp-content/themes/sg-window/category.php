@@ -16,25 +16,6 @@ $sgwindow_layout_content = sgwindow_get_theme_mod( 'layout_archive_content' );
 <div class="main-wrapper <?php echo esc_attr(sgwindow_content_class( $sgwindow_layout_content )); ?> <?php echo esc_attr( $sgwindow_layout ); ?> ">
 	
 	<div class="site-content">
-
-		<?php	/* maskconcursos developers */	?>
-		<?php  $objCategory = get_category( get_query_var('cat') ); ?>
-		<header class="archive-header">
-			<h1 id="novedades">NOVEDADES</h1>
-		</header>
-		<div class="content">
-
-		<?php $recent = new WP_Query("cat=".get_query_var('cat')."&showposts=6");
-			while($recent->have_posts()) : $recent->the_post();
-				get_template_part( 'content', sgwindow_get_content_prefix() );
-				?>
-
-			<?php endwhile; ?>
-		</div>
-		<div class="clear"></div>
-
-		<?php   /* END  maskconcursos developers */   ?>
-
 		<?php
 				if ( have_posts() ) : ?>
 				
