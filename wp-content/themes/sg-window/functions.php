@@ -1384,11 +1384,15 @@ function sgwindow_header() {
 		</div><!-- .site-description -->
 		
 	</div><!-- .sg-site-header-1 -->
-			
+
 			<!-- Second Top Menu -->	
 			<?php if ( '1' == sgwindow_get_theme_mod( 'is_show_secont_top_menu') ) : ?>
 
 				<div class="nav-container top-navigation">
+					<div class="search-header" style="width: 30%;float: left;margin-top: 6px;">
+						<?php get_search_form(); ?>
+					</div>
+
 					<nav class="horisontal-navigation menu-2" role="navigation">
 						<?php if ( '' != sgwindow_get_theme_mod( 'logotype_url' ) ) : ?>
 							<a class="small-logo" href='<?php echo esc_url( home_url( '/' ) ); ?>' title='<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>' rel='home'>

@@ -3656,3 +3656,9 @@ form > label {
 	padding: 0px 10px 15px 0px;
 	text-align: right;
 }
+
+.page-descript .search-header{
+	width: 20%;
+	float: left;
+	margin-top: 6px;
+}
