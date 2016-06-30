@@ -36,16 +36,38 @@
 			
 		</header><!-- #masthead -->
 
-		<div class="sg-header-area">
-			<div class="header-wrap">
-	
-			<?php
-				do_action( 'sgwindow_header_image' );
+		<?php
+			if(is_category()) {
+				$cat = get_query_var('cat');
+				$termcat = get_term($cat,'category');
+					if($termcat->parent == 0) {
+					// If the category doesn't have a parent
+		?>
+			<div class="sg-header-area">
+				<div class="header-wrap">
+					<?php
+						do_action( 'sgwindow_header_image' );
+						get_sidebar( 'top' );
+					?>
+				</div><!-- .header-wrap -->
+			</div><!-- .sg-header-area -->
 
-				get_sidebar( 'top' ); 
+			<?php
+			}
+				unset($termcat);
+			} elseif (is_home()){
 			?>
-			
-			</div><!-- .header-wrap -->
-		</div><!-- .sg-header-area -->
+
+			<div class="sg-header-area">
+				<div class="header-wrap">
+					<?php
+					do_action( 'sgwindow_header_image' );
+					get_sidebar( 'top' );
+					?>
+				</div><!-- .header-wrap -->
+			</div><!-- .sg-header-area -->
+			<?php
+		}
+		?>
 
 	<div class="main-area">
