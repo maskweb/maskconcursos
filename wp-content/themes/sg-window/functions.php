@@ -1585,3 +1585,30 @@ require get_template_directory() . '/inc/customize-info.php';
 
 //admin page
 require get_template_directory() . '/inc/admin-page.php';
+
+/** masKconcursos personalizacion
+ *  Load different template for sub category
+ */
+function sub_category_template() {
+
+	// Get the category id from global query variables
+	$cat = get_query_var('cat');
+
+	if(!empty($cat)) {
+
+		// Get the detailed category object
+		$category = get_category($cat);
+
+		// Check if it is sub-category and having a parent, also check if the template file exists
+		if( ($category->parent != '0') && (file_exists(TEMPLATEPATH . '/sub-category-template.php')) ) {
+
+			// Include the template for sub-category
+			include(TEMPLATEPATH . '/sub-category-template.php');
+			exit;
+		}
+		return;
+	}
+	return;
+
+}
+add_action('template_redirect', 'sub_category_template');
