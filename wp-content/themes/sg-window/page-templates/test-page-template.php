@@ -11,7 +11,7 @@
 get_header();
 
 ?>
-<div class="main-wrapper">
+<div class="main-wrapper <?php echo esc_attr( sgwindow_get_theme_mod('layout_page') ); ?> ">
 
 	<div class="site-content"> 
 			<?php
@@ -22,8 +22,8 @@ get_header();
 				<?php
 					while ( have_posts() ) : the_post();
 
-						get_template_part( 'content', 'page' );
-						
+						get_template_part( 'content-mkc', 'page' );
+
 						if ( comments_open() || get_comments_number() ) {
 							comments_template();
 						}
