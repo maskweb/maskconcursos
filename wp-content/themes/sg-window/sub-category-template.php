@@ -20,7 +20,7 @@ $sgwindow_layout_content = sgwindow_get_theme_mod( 'layout_archive_content' );
 		<?php	/* maskconcursos developers */	?>
 		<?php  $objCategory = get_category( get_query_var('cat') ); ?>
 		<header class="archive-header">
-			<h1 id="novedades">NOVEDADES SUBCAT</h1>
+			<h1 id="novedades">NOVEDADES</h1>
 		</header>
 		<div class="content">
 
