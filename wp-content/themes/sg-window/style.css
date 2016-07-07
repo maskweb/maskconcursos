@@ -3662,3 +3662,12 @@ form > label {
 	float: left;
 	margin-top: 6px;
 }
+
+.button-link-mkc {
+	color: rgb(245, 245, 245);
+	cursor: pointer;
+	border-radius: 3px;
+	background: #184268 linear-gradient(#184268, #184268);
+	box-shadow: 0 -1px 1px #00c4d8 inset, 0 1px 1px #184368 inset, 0 0 0 1px #184368, 0 2px 5px rgba(0, 0, 0, 0.3);
+	text-shadow: 0 -1px rgba(0, 0, 0, .1);
+}
