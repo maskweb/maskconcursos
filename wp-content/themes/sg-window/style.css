@@ -959,6 +959,7 @@ div.wp-caption.alignright .wp-caption-text {
 	text-decoration: none;
 }
 
+/* maskconcursos
 .horisontal-navigation ul li ul li a:before {
 	content: '\f429';
 	display: inline-block;
@@ -966,6 +967,7 @@ div.wp-caption.alignright .wp-caption-text {
 	font: normal 16px/1 'Genericons';
 	vertical-align: middle;	
 }
+*/
 
  /**
  * Content
@@ -2476,7 +2478,7 @@ article h1 a {
 		font: normal 16px/1 'Genericons';
 		vertical-align: top;	
 	}
-	
+/* maskconcursos
 	.horisontal-navigation  ul li ul .menu-item-has-children  > a:after {
 		content: '\f429';
 		display: inline-block;
@@ -2485,6 +2487,7 @@ article h1 a {
 		font: normal 16px/1 'Genericons';
 		vertical-align: top;
 	}
+*/
 	
 	.horisontal-navigation > div > ul > li a,
 	.horisontal-navigation a {
