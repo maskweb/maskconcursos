@@ -3664,6 +3664,13 @@ form > label {
 }
 
 .button-link-mkc {
+	font-size: 14px;
+	text-transform: uppercase;
+	text-decoration: none;
+
+	display: inline-block;
+	margin: 10px 0;
+	padding: 10px 2px;
 	color: rgb(245, 245, 245);
 	cursor: pointer;
 	border-radius: 3px;
