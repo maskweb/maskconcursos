@@ -3663,18 +3663,22 @@ form > label {
 	margin-top: 6px;
 }
 
-.button-link-mkc {
-	font-size: 14px;
+.button-link-mkc a{
+	font-size: 20px;
 	text-transform: uppercase;
 	text-decoration: none;
 
 	display: inline-block;
 	margin: 10px 0;
-	padding: 10px 2px;
+	padding: 10px 30px;
 	color: rgb(245, 245, 245);
 	cursor: pointer;
 	border-radius: 3px;
 	background: #184268 linear-gradient(#184268, #184268);
 	box-shadow: 0 -1px 1px #00c4d8 inset, 0 1px 1px #184368 inset, 0 0 0 1px #184368, 0 2px 5px rgba(0, 0, 0, 0.3);
 	text-shadow: 0 -1px rgba(0, 0, 0, .1);
+}
+
+.button-link-mkc a:hover{
+	color: white;
 }

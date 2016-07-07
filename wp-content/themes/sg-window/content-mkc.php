@@ -73,9 +73,11 @@
 
 			<?php $meta = get_post_custom_values('tracking'); ?>
 			<?php $btext = get_post_custom_values('texto_boton'); ?>
-			<a class="button-link-mkc" target="_blank" href="<?php echo $meta['0']; ?>" >
-			<?php echo $btext['0']; ?>
-			</a>
+			<div class="button-link-mkc">
+				<a target="_blank" href="<?php echo $meta['0']; ?>" >
+				<?php echo $btext['0']; ?>
+				</a>
+			</div>
 			<?php wp_link_pages( array( 'before' => '<div class="page-links">' . __( 'Pages:', 'sg-window'), 'after' => '</div>' ) ); ?>
 		</div><!-- .entry-content -->
 		<?php endif; ?>
