@@ -891,6 +891,7 @@ div.wp-caption.alignright .wp-caption-text {
 
 /* Navigation */
 
+/*
 .horisontal-navigation .current-menu-item  > a:before,
 .horisontal-navigation .current_page_item  > a:before {
 	content: '\f428';
@@ -899,7 +900,16 @@ div.wp-caption.alignright .wp-caption-text {
 	font: normal 16px/1 'Genericons';
 	vertical-align: top;	
 }
+*/
 
+.horisontal-navigation .current_page_item a,
+.horisontal-navigation .current-page-ancestor a,
+.horisontal-navigation .current-menu-item a,
+.horisontal-navigation .current-menu-ancestor a {
+	font-weight: bolder;
+}
+
+/*
 .horisontal-navigation .current-page-ancestor > a:before,
 .horisontal-navigation .current-menu-ancestor > a:before {
 	content: '\f428';
@@ -908,6 +918,7 @@ div.wp-caption.alignright .wp-caption-text {
 	font: normal 16px/1 'Genericons';
 	vertical-align: top;	
 }
+*/
 
 .horisontal-navigation ul.nav-horizontal,
 .horisontal-navigation div.nav-horizontal > ul {
@@ -959,7 +970,6 @@ div.wp-caption.alignright .wp-caption-text {
 	text-decoration: none;
 }
 
-/* maskconcursos
 .horisontal-navigation ul li ul li a:before {
 	content: '\f429';
 	display: inline-block;
@@ -967,7 +977,6 @@ div.wp-caption.alignright .wp-caption-text {
 	font: normal 16px/1 'Genericons';
 	vertical-align: middle;	
 }
-*/
 
  /**
  * Content
@@ -1010,6 +1019,8 @@ div.wp-caption.alignright .wp-caption-text {
 
 .content-container .entry-thumbnail {
 	padding: 0 0 20px 0;
+	max-width: 728px;
+	margin: auto;
 }
 
 .flex .content-container {
@@ -1666,6 +1677,7 @@ article h1 a {
 	padding: 20px;
 }
 
+/*
 .sidebar-footer li:before,
 .column li:before {
 	content: '\f428';
@@ -1676,6 +1688,7 @@ article h1 a {
 	text-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
 	vertical-align: middle;	
 }
+*/
 
 .column select {
 	width: 100%;
@@ -1809,6 +1822,7 @@ article h1 a {
 	transform: rotate(90deg);
 }
 
+/*
 .wide .small .widget ul li:before {
 	content: '\f428';
 	-moz-transform: rotate(0);
@@ -1816,6 +1830,7 @@ article h1 a {
 	-o-transform: rotate(0);
 	transform: rotate(0);
 }
+*/
 
 .wide .widget.widget_nav_menu ul li:before {
 	content: none;
@@ -2478,7 +2493,7 @@ article h1 a {
 		font: normal 16px/1 'Genericons';
 		vertical-align: top;	
 	}
-/* maskconcursos
+
 	.horisontal-navigation  ul li ul .menu-item-has-children  > a:after {
 		content: '\f429';
 		display: inline-block;
@@ -2487,8 +2502,7 @@ article h1 a {
 		font: normal 16px/1 'Genericons';
 		vertical-align: top;
 	}
-*/
-	
+
 	.horisontal-navigation > div > ul > li a,
 	.horisontal-navigation a {
 		display: inline-block;
@@ -3666,7 +3680,7 @@ form > label {
 	margin-top: 6px;
 }
 
-.button-link-mkc a{
+.entry-content .button-link-mkc a{
 	font-size: 20px;
 	text-transform: uppercase;
 	text-decoration: none;
@@ -3674,7 +3688,7 @@ form > label {
 	display: inline-block;
 	margin: 10px 0;
 	padding: 10px 30px;
-	color: rgb(245, 245, 245);
+	color: rgb(245, 245, 245) !important;
 	cursor: pointer;
 	border-radius: 3px;
 	background: #184268 linear-gradient(#184268, #184268);
@@ -3682,6 +3696,6 @@ form > label {
 	text-shadow: 0 -1px rgba(0, 0, 0, .1);
 }
 
-.button-link-mkc a:hover{
-	color: white;
-}
+/*.entry-content .button-link-mkc a:hover{
+	color: rgb(245, 245, 245) !important;
+} */
