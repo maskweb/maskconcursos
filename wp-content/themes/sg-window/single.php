@@ -20,7 +20,7 @@ $sgwindow_layout = sgwindow_get_theme_mod('layout_default');
 				<?php
 					while ( have_posts() ) : the_post();
 
-						get_template_part( 'content', get_post_format() );
+						get_template_part( 'content-mkc', get_post_format() );
 						
 					endwhile; ?>
 					
