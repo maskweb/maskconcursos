@@ -1768,7 +1768,7 @@ msgstr ""
 
 #: ../search.php:21
 #, php-format
-msgid "Search results for: %s"
+msgid "Search results2 for: %s"
 msgstr ""
 
 #: ../tag.php:21
