@@ -17,18 +17,22 @@ $sgwindow_layout_content = sgwindow_get_theme_mod( 'layout_archive_content' );
 	
 	<div class="site-content">
 
-		<?php
-				if ( have_posts() ) : ?>
-				
-					<header class="archive-header">
-						<?php /* maskconcursos developers */ ?>
-						<?php /* ?>
+		<header class="archive-header">
+			<?php /* maskconcursos developers */ ?>
+			<?php /* ?>
 						<h1 class="archive-title"><?php printf( __( 'Ver todas las entradas de %s', 'sg-window' ), single_cat_title( '', false ) ); ?></h1>
  						<?php */ ?>
-						<h1 class="archive-title"><?php printf( single_cat_title( '', false ) ); ?></h1>
-					</header><!-- .archive-header -->
+			<h1 class="archive-title"><?php printf( single_cat_title( '', false ) ); ?></h1>
+		</header><!-- .archive-header -->
+
+		<?php
+		/* masKconcursos --> No muestro las entradas CADUCADAS */
+		$idCatCad = get_category_by_slug('caducado');
+		$id = $idCatCad->term_id;
+		
+				if ( have_posts() ) :  /*query_posts($query_string . '&cat=-'.$id)*/;?>
 				
-					<div class="content"> 
+					<div class="content">
 
 				<?php
 					while ( have_posts() ) : the_post();
@@ -59,7 +63,9 @@ $sgwindow_layout_content = sgwindow_get_theme_mod( 'layout_archive_content' );
 					</div><!-- .content -->
 				<?php 
 				endif;
-?>
+				/*wp_reset_query();*/
+
+		?>
 	</div><!-- .site-content -->
 	<?php
 	sgwindow_get_sidebar( sgwindow_get_theme_mod( 'layout_archive' ) );

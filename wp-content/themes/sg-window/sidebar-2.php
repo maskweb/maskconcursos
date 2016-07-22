@@ -18,11 +18,11 @@ $hook_name = 'sgwindow_empty_column_2-'.$sgwindow_curr_slug;
 		<?php if ( is_active_sidebar( 'column-2'.'-'.$sgwindow_curr_slug ) ) : ?>
 				
 				<?php dynamic_sidebar( 'column-2'.'-'.$sgwindow_curr_slug ); ?>
-
+			
 		<?php else : ?>
 				
 				<?php do_action( $hook_name ); ?>
-		
+					
 		<?php endif; ?>
 		</div><!-- .widget-area -->
 	</div><!-- .column -->

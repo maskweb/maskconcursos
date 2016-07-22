@@ -16,27 +16,33 @@ $sgwindow_layout_content = sgwindow_get_theme_mod( 'layout_archive_content' );
 <div class="main-wrapper <?php echo esc_attr(sgwindow_content_class( $sgwindow_layout_content )); ?> <?php echo esc_attr( $sgwindow_layout ); ?> ">
 	
 	<div class="site-content">
-		<?php
-				if ( have_posts() ) : ?>
-				
-					<header class="archive-header">
+
+		<header class="archive-header">
 						<?php /* maskconcursos developers */ ?>
-						<?php /* ?>
+		<?php /* ?>
 						<h1 class="archive-title"><?php printf( __( 'Ver todas las entradas de %s', 'sg-window' ), single_cat_title( '', false ) ); ?></h1>
  						<?php */ ?>
-						<h1 class="archive-title"><?php printf( single_cat_title( '', false ) ); ?></h1>
-					</header><!-- .archive-header -->
-				
-					<div class="content"> 
+		<h1 class="archive-title"><?php printf( single_cat_title( '', false ) ); ?></h1>
+		</header><!-- .archive-header -->
 
-				<?php
-					while ( have_posts() ) : the_post();
 
+			<?php
+			/* masKconcursos --> No muestro las entradas CADUCADAS */
+			$idCatCad = get_category_by_slug('caducado');
+			$id = $idCatCad->term_id;
+			
+			if (have_posts() ) : /*query_posts($query_string . '&cat=-'.$id)*/;?>
+				<div class="content">
+					<?php
+					while (have_posts() ) : the_post();
+
+						/* se utiliza la template content-archive.php*/
 						get_template_part( 'content', sgwindow_get_content_prefix() );
-						
-					endwhile; ?>
-					</div><!-- .content -->
-					<div class="clear"></div>
+
+					endwhile;
+					?>
+				</div><!-- .content -->
+				<div class="clear"></div>
 				
 				<?php
 
@@ -47,8 +53,9 @@ $sgwindow_layout_content = sgwindow_get_theme_mod( 'layout_archive_content' );
 						<?php do_action( 'sgwindow_after_content' ); ?>
 					</div><!-- .content-search -->
 
-				<?php	
-				else :  
+				<?php
+
+			else :
 				?>
 					<div class="content"> 
 					<?php 
@@ -56,8 +63,10 @@ $sgwindow_layout_content = sgwindow_get_theme_mod( 'layout_archive_content' );
 					?>
 					
 					</div><!-- .content -->
-				<?php 
-				endif;
+				<?php
+			endif;
+
+			/*wp_reset_query();*/
 ?>
 	</div><!-- .site-content -->
 	<?php

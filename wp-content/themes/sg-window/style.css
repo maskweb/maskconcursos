@@ -3696,6 +3696,50 @@ form > label {
 	text-shadow: 0 -1px rgba(0, 0, 0, .1);
 }
 
+.caducado .button-link-mkc {
+	display: none;
+}
 /*.entry-content .button-link-mkc a:hover{
 	color: rgb(245, 245, 245) !important;
 } */
+
+.caducado {
+	background: #555 !important;
+}
+
+.caducado a{
+	pointer-events: none;
+	cursor: default;
+}
+
+.mensaje{
+	display: none;
+	/*position: absolute;
+	top: 100px;
+	left: 10%;*/
+	font-size: 18px;
+	text-align: center;
+	color: red;
+	border-bottom: solid 3px red;
+	border-top: solid 3px red;
+	margin-bottom: 20px;
+}
+
+.mensaje h5{
+	font-size: 30px;
+	color: red;
+}
+
+.caducado .mensaje{
+	display: block;
+}
+
+.caducado .mensaje{
+	display: block;
+}
+
+.caducado .mensaje a{
+	pointer-events: auto;
+	cursor: pointer;
+	color: white;
+}

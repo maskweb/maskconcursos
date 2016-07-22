@@ -9,8 +9,26 @@
  * @since SG Window 1.0.0
  */
 ?>
-<div class="content-container">
+<?php
+/*	$categories = get_the_category();
+	$caducado = '0';
+	foreach( $categories as $category ) {
 
+		if ($category->name=='caducado') {
+			$caducado = '1';
+			break;
+		}
+	}
+*/
+$caducado = '0';
+if (in_category('caducado')):
+	$caducado = '1';
+endif;
+
+?>
+<div class="content-container<?php echo ( $caducado == '1' ) ? ' caducado"' : '"';?> >
+
+	
 	<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 
 		<header class="entry-header">
@@ -38,8 +56,10 @@
 			
 			<?php endif; ?>
 
-
-
+			<div class="mensaje">
+				<h5>PROMOCIÓN CADUCADA</h5>
+				<p>Descubre nuestras nuevas promociones en <a href="<?php echo get_home_url()?>">MASKCONCURSOS.COM</a></p>
+			</div>
 
 			<?php if( class_exists('Dynamic_Featured_Image') ):
 				global $dynamic_featured_image;

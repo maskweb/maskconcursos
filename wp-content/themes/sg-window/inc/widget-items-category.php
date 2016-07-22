@@ -97,7 +97,11 @@ class sgwindow_items_category extends WP_Widget {
 				),
 			);
 		}
-		
+
+		/* masKconcursos --> No muestro en Novedades las entradas CADUCADAS */
+		$idCatCad = get_category_by_slug('caducado');
+		$id = $idCatCad->term_id;
+
 		$query = new WP_Query( array(
 			'order'          => 'DESC',
 			'posts_per_page' => $instance['count'],
@@ -106,6 +110,7 @@ class sgwindow_items_category extends WP_Widget {
 			'post__not_in'   => $not_in,
 			'post_type'		 => array('post','jehanne_theme'),
 			'tax_query'      => $args,
+			'cat'			 => '-'.$id,
 		) );
 
 		if ( $query->have_posts() ) :
